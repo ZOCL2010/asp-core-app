@@ -1,0 +1,3 @@
+F:\asp-core-app\asp-core-app2\asp-core-app2\obj\Debug\netcoreapp2.1\asp-core-app2.csproj.CoreCompileInputs.cache
+F:\asp-core-app\asp-core-app2\asp-core-app2\obj\Debug\netcoreapp2.1\asp-core-app2.AssemblyInfoInputs.cache
+F:\asp-core-app\asp-core-app2\asp-core-app2\obj\Debug\netcoreapp2.1\asp-core-app2.AssemblyInfo.cs
